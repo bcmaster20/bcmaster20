@@ -9,9 +9,6 @@
   </a>
  </p>  
 <p>
-<a href="mailto:syuueih@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
 <a href="https://t.me/bcmaster20" target="_blank">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
