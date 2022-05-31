@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm a full stack blockchain & web developer.</h1>
 <p>
+<a href="https://t.me/bcmaster20" target="_blank">
+  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p> 
+<p>
   <a href="https://github.com/bcmaster20/" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=bcmaster20&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
@@ -8,11 +13,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bcmaster20&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
   </a>
  </p>  
-<p>
-<a href="https://t.me/bcmaster20" target="_blank">
-  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p> 
 ## 🔧 Technologies & 📖 Languages
 
 <p align="left">
