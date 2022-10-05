@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm a full stack blockchain & web developer.</h1>
 <p>
-<a href="https://t.me/bcmaster20" target="_blank">
-  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p> 
-<p>
   <a href="https://github.com/bcmaster20/" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=bcmaster20&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
